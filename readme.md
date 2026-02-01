@@ -5,6 +5,10 @@
 
 Customize how Star Citizen displays item names, UI labels, and other in-game text. The tool merges your custom strings into the game's `global.ini` so you can see component grades, manufacturer info, weapon stats, and whatever else you want at a glance without digging through menus.
 
+| Storefront | Inspection |
+|:---:|:---:|
+| ![Storefront view showing customized item names with manufacturer, size, grade, and classification](images/storefront.png) | ![Mouse-over inspection showing customized component details](images/mouseover.png) |
+
 > [!WARNING]
 > If you are uneasy running PowerShell scripts, you can still manually adjust your localization file by searching for strings with `CTRL`+`F` or using find & replace with `CTRL`+`H` in your text editor.
 
