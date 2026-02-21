@@ -10,3 +10,7 @@ config.json
 cache/
 tools/
 output/
+
+# IDE / agent
+.claude/
+.repoql/
